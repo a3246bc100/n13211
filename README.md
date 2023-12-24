@@ -15,4 +15,5 @@ Facebook：https://www.facebook.com/TakuroOnishi<br />
 令和5年度 デジタル庁 デジタル推進委員　（任期：令和5年3月17日～令和6年3月31日）<br />
 デジタル推進委員制度概要：https://www.digital.go.jp/policies/digital_promotion_staff<br />
 私のオープンバッジ：https://www.openbadge-global.com/ns/portal/openbadge/public/assertions/detail/WnhKT3hjS1BTZEZBNGcwYnVLQm5Bdz09<br />
-ブロックチェーン検証(Etherscan)：https://etherscan.io/tx/0xe5b3e003fb96c8e6088da58276e083ce5482a88c4dadb9fdbefaf3c65efa5f69<br />
+ブロックチェーン検証(Etherscan)：https://www.openbadge-global.com/ns/portal/openbadge/blockcertsVerifier.html?id=WnhKT3hjS1BTZEZBNGcwYnVLQm5Bdz09&certType=badge<br />
+ブロックチェーン検証後(Etherscan)：https://etherscan.io/tx/0xe5b3e003fb96c8e6088da58276e083ce5482a88c4dadb9fdbefaf3c65efa5f69<br />
